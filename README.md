@@ -7,5 +7,5 @@ Downloads fonts file to your default font manager directory (/Library/Font) if [
 
 Usage:
 ```bash
-    ./download_fonts.sh "https://github.com/fauxparse/circular-std/tree/master/fonts" "" "/path/to/download/location/"
+    ./download_fonts.sh "https://github.com/fauxparse/circular-std/tree/master/fonts" ".ttf" "/path/to/download/location/"
     
